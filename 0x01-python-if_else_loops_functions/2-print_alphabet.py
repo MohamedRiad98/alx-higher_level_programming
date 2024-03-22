@@ -2,5 +2,5 @@
 # 2-print_alphabet.py
 # Muhammed Riad.
 
-for c in range(ord('a'), ord('z')):
-        print(chr(c), end="")
+for x in range(ord('a'), ord('z') + 1):
+        print("{:c}".format(x), end='')
