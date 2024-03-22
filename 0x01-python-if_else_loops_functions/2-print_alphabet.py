@@ -3,4 +3,4 @@
 # Muhammed Riad.
 
 for x in range(ord('a'), ord('z') + 1):
-        print("{:c}".format(x), end='')
+    print("{:c}".format(x), end='')
