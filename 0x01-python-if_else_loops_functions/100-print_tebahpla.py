@@ -1,4 +1,4 @@
-##!/usr/bin/python3
+#!/usr/bin/python3
 # Program to print alphabetical in reverse order
 #                           Muhamed Riad .
 
